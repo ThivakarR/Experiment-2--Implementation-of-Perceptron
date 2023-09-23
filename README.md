@@ -113,7 +113,7 @@ plt.show()
 # OUTPUT:
 ![image](https://github.com/ThivakarR/Experiment-2--Implementation-of-Perceptron/assets/118707074/276cb61b-7e54-4a75-9245-e46b1337a239)
 # Scatter Plot:
-![image](https://github.com/ThivakarR/Experiment-2--Implementation-of-Perceptron/assets/118707074/2c59451e-6c62-473c-bac9-b1796e2853eb)
+![image](https://github.com/ThivakarR/Experiment-2--Implementation-of-Perceptron/assets/118707074/b9c48df6-af17-4be9-a53f-d062da509b37)
 # Error Plot:
 ![image](https://github.com/ThivakarR/Experiment-2--Implementation-of-Perceptron/assets/118707074/457d0ab6-01af-4f11-9213-824f84353f5f)
 # Accuracy: 
